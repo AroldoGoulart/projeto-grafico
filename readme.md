@@ -58,7 +58,5 @@ Este projeto utiliza várias bibliotecas para facilitar o desenvolvimento e melh
 - **Next.js:** Framework para React que permite a criação de aplicações web robustas.
 - **ApexCharts:** Biblioteca para criação de gráficos interativos.
 - **Radix UI:** Conjunto de componentes acessíveis para construção da interface do usuário.
-- **Tanstack React Query:** Biblioteca para gerenciamento de estado de dados assíncronos.
-- **Prisma:** ORM para trabalhar com bancos de dados.
 
 Esperamos que você aproveite usar este Dashboard Interativo tanto quanto nós aproveitamos construí-lo! Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
