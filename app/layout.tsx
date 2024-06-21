@@ -1,4 +1,3 @@
-import { Toaster } from "@/components/ui/toaster";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import NextTopLoader from "nextjs-toploader";
@@ -19,7 +18,6 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <NextTopLoader />
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           {children}
-          <Toaster />
         </ThemeProvider>
       </body>
     </html>
